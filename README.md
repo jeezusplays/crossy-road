@@ -1,7 +1,11 @@
-# crossy-road
+# Crossy Road
 ## About this Project
+Project developed in 2019, Crossy Road is a mobile application for the visually impaired. The main feature of the application is to guide the visually impaired in crossing traffic junctions.
+* Implemented image classification and trained AI using Tensorflow Lite and Google Cloud Console
 
 ## Built With
+* Tensorflow Lite
+* Google Cloud Console
 
 ## Getting Started
 
@@ -22,3 +26,4 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 ## Acknowledgements
+* Tech For Good 2019 (Shortlisted and Showcased to Public)
