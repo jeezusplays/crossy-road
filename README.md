@@ -24,6 +24,8 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Contact
+* [LinkedIn](https://www.linkedin.com/in/joey-tan-zuyi/)
+* [Email](mailto:joeytanbiz@gmail.com)
 
 ## Acknowledgements
 * Tech For Good 2019 (Shortlisted and Showcased to Public)
