@@ -4,7 +4,7 @@ Project developed in 2019, Crossy Road is a mobile application for the visually 
 * Implemented image classification and trained AI using Tensorflow Lite and Google Cloud Console
 
 ## Built With
-* Tensorflow Lite
+* [Tensorflow Lite](https://www.tensorflow.org/lite)
 * Google Cloud Console
 
 ## Getting Started
