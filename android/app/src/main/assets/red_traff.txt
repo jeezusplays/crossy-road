@@ -1,0 +1,6 @@
+b'in_p2'
+b'out_p1'
+b'in_p1'
+b'out_p3'
+b'red'
+b'in_p3'
